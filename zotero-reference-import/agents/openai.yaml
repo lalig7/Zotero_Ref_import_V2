@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zotero Reference Import"
+  short_description: "Import Word bibliographies, reference lists, single PDFs or PDF folders (as files or citations) into Zotero"
+  default_prompt: "Use $zotero-reference-import to import my references into my chosen Zotero collection."
+policy:
+  allow_implicit_invocation: true
